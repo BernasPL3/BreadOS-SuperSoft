@@ -1,0 +1,1 @@
+nasm -f bin kernel/kernel.asm -o kernel/kernel.bin
